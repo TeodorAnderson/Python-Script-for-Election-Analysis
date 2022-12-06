@@ -18,3 +18,4 @@ Tom, a Colorado board of elections employee, has tasked me with swtiching their 
 * And Anthony Doane aquired 11,606 votes, 3.1% of the total turnot
 ## Election Audit Summary
 
+The script can be used for any election, if changes happen to the output interface, for example if you wanted to the the presidential election (going by a popular vote) all you would have to do is replace any mention of county past a print function to state, given that the election file name is updated without a name change and that the same columns are used as last cycles. Another modification is also change the mention of an output county to electoral votes per state and it would run for American presidential elections
