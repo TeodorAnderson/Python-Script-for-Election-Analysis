@@ -1,5 +1,5 @@
-# Election_Analysis
-## Module 3 Assignment Teodor Anderson
+# Python Election Analysis
+## Teodor Anderson
 
 ## Overview of Election Audit
 
