@@ -1,4 +1,4 @@
-# Python Election Analysis
+# Python Script for Election Analysis
 ## Teodor Anderson
 
 ## Overview of Election Audit
